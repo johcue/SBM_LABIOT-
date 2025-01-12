@@ -7,7 +7,6 @@
 - [Demo](#demo)
 - [Installation and Usage](#installation-and-usage)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## What is SBM?
 
