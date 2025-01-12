@@ -1,16 +1,13 @@
 # SBM - Smart Beverage Machine
 
+SBM (Smart Beverage Machine) is a gesture-controlled beverage dispenser designed to provide a hygienic, efficient, and engaging solution for serving beverages. Using gesture recognition and automation, it minimizes physical interaction, making it ideal for various settings.
+
 ## Table of Contents
-- [What is SBM?](#what-is-sbm)
 - [How Does It Work?](#how-does-it-work)
 - [Why SBM?](#why-sbm)
 - [Demo](#demo)
 - [Installation and Usage](#installation-and-usage)
 - [Contributors](#contributors)
-
-## What is SBM?
-
-SBM (Smart Beverage Machine) is a gesture-controlled beverage dispenser designed to provide a hygienic, efficient, and engaging solution for serving beverages. Using gesture recognition and automation, it minimizes physical interaction, making it ideal for various settings.
 
 ## How Does It Work?
 
