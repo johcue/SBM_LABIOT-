@@ -53,5 +53,19 @@ Check out the demo of SBM in action:
 - Johan Chicue
 - Martin Cardaci
 
+## Deployment
+Pre req.
+- Deploy a MYSQL Server
+- View Demo video to use  e.g.> Start 5 five left hand /// then select (right hand).. Index = Coffe .. Index+Medium finger = Late OR... Fist = Milk
+
+1. PowerON the SBM 
+
+2. Run newpython/test2 - MySQL.py
+
+(If you need to change some on Arduino Sketch > CameraWebServer_Bombs/CameraWebServer_Bombs.ino)
+
 Supervised by **Prof. Massimo Ficco**
 **Lab of IoT, University of Salerno, IT**
+
+
+
